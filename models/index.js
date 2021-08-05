@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-mongoose.connect("mongodb+srv://admin:administrator@trycluster-jqqps.mongodb.net/Tasks",{useNewUrlParser:true, useUnifiedTopology:true, useFindAndModify: false }, (err)=>{
+mongoose.connect("mongodb://mongo:27017/Tasks",{useNewUrlParser:true, useUnifiedTopology:true, useFindAndModify: false }, (err)=>{
     if(!err){
         console.log("Database connected...");
     }else{

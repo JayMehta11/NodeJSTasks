@@ -18,6 +18,10 @@ module.exports = function(app,io){
         });
     })
 
+    app.get('/api/parshwa',(req,res)=>{
+        res.json("Parshwa Shah");
+    })
+
     app.post('/api/get',(req,res)=>{
         var decoded = jwt.verify(req.headers['authorization'], '@#RTY%$')
         User.findOne({
