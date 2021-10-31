@@ -1,6 +1,6 @@
 # User Authentication and Task App With CRUD in NodeJS.
 
-__This project is currently on hold we will gwt back to you soon__
+__This project is currently on hold we will get back to you soon__
 
 Soon you can check out this app live on https://tasks-parshwa.herokuapp.com/ 
 
