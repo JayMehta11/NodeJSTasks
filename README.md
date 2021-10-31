@@ -1,6 +1,9 @@
-# NodeJS Tasks App With CRUD and User Authentication
+# User Authentication and Task App With CRUD in NodeJS.
 
-Check out this app live on https://tasks-parshwa.herokuapp.com/ 
+__This project is currently on hold we will gwt back to you soon__
 
-This app have some features which are unique which you can check out.
-Tasks in this app are continously in sync if you have logged in from same account to 2 different browsers all task will be updated real time if a task is added in one browser it will be reflected in other without any refresh on content. Same with update and edit of tasks.
+Soon you can check out this app live on https://tasks-parshwa.herokuapp.com/ 
+
+This app have some features which are unique which you can check out soon.
+
+Tasks in this app are always in sync, so if you log in with the same account on two separate browsers, all tasks will be updated in real time. If you add a task in one browser, it will appear in the other without having to reload the page. The same goes for task updates and edits.
